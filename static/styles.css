@@ -1,0 +1,10 @@
+.linea{
+    margin-top: 15px;
+    border: black;
+    border-style: none none dashed none ;
+    border-width: 1px;
+}
+
+.table{
+    text-align: center;
+}

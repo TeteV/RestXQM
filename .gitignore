@@ -1,0 +1,8 @@
+dba/
+WEB-INF/
+chat
+
+static/.ignore
+static/basex.svg
+static/chat.js
+static/style.css

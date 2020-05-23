@@ -1,0 +1,34 @@
+<juegos>
+   <juego>
+     <idJuego>1</idJuego>
+     <nombre>Smallworld</nombre>
+     <nJugadores>2-6</nJugadores>
+     <tipo>Estrategia</tipo>
+     <duracion>60m</duracion>
+     <dificultad>Media</dificultad>
+     <fabricante>Days of wonder</fabricante>
+     <edadRec>8+</edadRec>
+   </juego>
+   
+   <juego>
+     <idJuego>2</idJuego>
+     <nombre>Libro de la locura</nombre>
+     <nJugadores>2-5</nJugadores>
+     <tipo>Cooperativo</tipo>
+     <duracion>60-90m</duracion>
+     <dificultad>Alta</dificultad>
+     <fabricante>Devir</fabricante>
+     <edadRec>12+</edadRec>
+   </juego>
+   
+   <juego>
+     <idJuego>3</idJuego>
+     <nombre>Exit - Tesoro hundido</nombre>
+     <nJugadores>1-4</nJugadores>
+     <tipo>Scape Room</tipo>
+     <duracion>45-90m</duracion>
+     <dificultad>Baja</dificultad>
+     <fabricante>Devir</fabricante>
+     <edadRec>10+</edadRec>
+   </juego>
+</juegos>

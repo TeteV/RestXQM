@@ -1,6 +1,6 @@
 # A simple consult of whatever you want with XML
 
-### There's a XML of phones for example the app
+### There's a XML of Table games for example the app
 
 ## Getting Started
 
@@ -8,8 +8,8 @@ You need to start the http server in your pc going to the BaseX folder and go to
 
 
 ## Infomations
-* To use the file once you start the server search in your favourite web browser: localhost:8984/choosephone , and search by ID
-* Original XML: phones.xml
+* To use the file once you start the server search in your favourite web browser: localhost:8984/home
+* Original XML: juegos.xml
 
 
 ## Built With

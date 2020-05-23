@@ -5,6 +5,12 @@
     border-width: 1px;
 }
 
+.container{
+    border: black;
+    border-style:dashed;
+    border-width: 1px;
+}
+
 .table{
     text-align: center;
 }
